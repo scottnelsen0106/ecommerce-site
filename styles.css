@@ -1,0 +1,16 @@
+.container {
+    text-align: center;
+}
+
+.card-img-top {
+    height: 15rem;
+    object-fit: cover;
+}
+
+.card-body {
+    object-fit: cover;
+}
+
+.btn-primary {
+    object-fit: cover;
+}
